@@ -1,0 +1,14 @@
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\Mapa_assento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\Mapa_assento.AssemblyInfoInputs.cache
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\Mapa_assento.AssemblyInfo.cs
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\Mapa_assento.csproj.CoreCompileInputs.cache
+C:\Estrutura de dados\Mapa_assento\bin\Debug\net8.0\Mapa_assento.exe
+C:\Estrutura de dados\Mapa_assento\bin\Debug\net8.0\Mapa_assento.deps.json
+C:\Estrutura de dados\Mapa_assento\bin\Debug\net8.0\Mapa_assento.runtimeconfig.json
+C:\Estrutura de dados\Mapa_assento\bin\Debug\net8.0\Mapa_assento.dll
+C:\Estrutura de dados\Mapa_assento\bin\Debug\net8.0\Mapa_assento.pdb
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\Mapa_assento.dll
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\refint\Mapa_assento.dll
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\Mapa_assento.pdb
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\Mapa_assento.genruntimeconfig.cache
+C:\Estrutura de dados\Mapa_assento\obj\Debug\net8.0\ref\Mapa_assento.dll
